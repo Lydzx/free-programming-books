@@ -120,7 +120,7 @@
 
 * [Linux Pemula](https://www.youtube.com/playlist?list=PLACzo3mGgHK_D2wkGu4AvUAQiqLC30PTz) - LINUXcare
 * [Tutorial Terminal Linux Bahasa Indonesia](https://www.youtube.com/playlist?list=PLy1BHEa_Wr-cpjWY5uOqsMxQwiQrRnC8B) - ArtAway
-
+* [Belajar Linux Mint](https://www.youtube.com/playlist?list=PLkI9Yw_AYWAUQijii3dA8dtTDrBZFomxj) - Avner Studio
 
 ### MongoDB
 
